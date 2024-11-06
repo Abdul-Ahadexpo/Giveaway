@@ -6,7 +6,7 @@ const validCodes = new Set([
   "AG5UI8H",
   "CF537F",
   "PS5DF",
-  "4I54",
+
   "1INCH",
 ]);
 
@@ -18,7 +18,7 @@ const couponCodes = {
   AG5UI8H: "BABU.VALOACHO",
   CF537F: "ARE.MAMA",
   PS5NIMU: "SALA.PS5.NIBE",
-  "4I54": "ARE.DADA",
+
   "1INCH": "ONEK.COTO.AMER",
 };
 
